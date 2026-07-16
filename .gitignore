@@ -1,0 +1,14 @@
+# Maven
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Node
+node_modules/
+dist/
+
+# Env
+application-local.properties
